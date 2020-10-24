@@ -1,0 +1,186 @@
+<!DOCTYPEhtml>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="fichier.css" type="text/css" media="screen" />
+		<link rel="icon" href="icone.jpg"/>
+		<title> GOTACTU </title>
+
+	</head>
+<body>
+
+<header>
+	<h1><center> GOTACTU </center></h1>	
+	<h2> Accueil </h2>
+	<center><img src="gameofthrones.jpg" alt="GOT" title="Games of thrones"  height="216px" width="384px"> </img></center>
+	<nav>
+		<ul>
+			<li><a href="page2.html"> Les familles de GOT </a></li>
+			<li><a href="page3.html">Photos </a></li>
+			<li><a href="page4.html"> Article </a></li>
+			<li><a href="page6.html"> Videos </a></li>
+		</ul>
+	</nav>
+</header>
+
+<aside>
+           <h3> Resume des episodes</h3>
+                  <ul>
+											 <div class="dropdown">
+											   <span> SAISON 1 </span>
+											   <div class="dropdown-content">
+											     <h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-1-episode-1/"> Episode 1 : L’hiver vient. </a></li></h5>
+													 <h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-1-episode-2/"> Episode 2 : La Route royale. </a></li></h5>
+													 <h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-1-episode-3/"> Episode 3 : Lord Snow. </a></li></h5>
+												   <h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-1-episode-4/"> Episode 4 : Infirmes, Bâtards et Choses brisées. </a></li></h5>
+												   <h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-1-episode-5/"> Episode 5 : Le Loup et le Lion. </a></li></h5>
+													 <h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-1-episode-6/"> Episode 6 : Une couronne dorée. </a></li></h5>
+													 <h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-1-episode-7/"> Episode 7 : Gagner ou Mourir. </a></li></h5>
+													 <h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-1-episode-8/"> Episode 8 : Frapper d’estoc. </a></li></h5>
+													 <h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-1-episode-9/"> Episode 9 : Baelor. </a></li></h5>
+													 <h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-1-episode-10/"> Episode 10 : De feu et de sang. </a></li></h5>
+											   </div>
+											 </div>
+									</ul>
+
+									<ul>
+											 <div class="dropdown">
+												<span> SAISON 2 </span>
+												<div class="dropdown-content">
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-2-episode-1/"> Episode 1 : Le Nord se souvient. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-2-episode-2/"> Episode 2 : Les Contrées nocturnes. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-2-episode-3/"> Episode 3 : Ce qui est mort ne saurait mourir. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-2-episode-4/"> Episode 4 : Le Jardin des os. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-2-episode-5/"> Episode 5 : Le Fantôme de Harrenhal. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-2-episode-6/"> Episode 6 : Les Anciens et les Nouveaux Dieux. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-2-episode-7/"> Episode 7 : Un homme sans honneur. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-2-episode-8/"> Episode 8 : Le Prince de Winterfell. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-2-episode-9/"> Episode 9 : La Néra. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-2-episode-10/"> Episode 10 : Valar Morghulis. </a></li></h5>
+												</div>
+											</div>
+                  </ul>
+
+									<ul>
+											 <div class="dropdown">
+												<span> SAISON 3 </span>
+												<div class="dropdown-content">
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-3-episode-1/"> Episode 1 : Valar Dohaeris. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-3-episode-2/"> Episode 2 : Noires ailes, noires nouvelles. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-3-episode-3/"> Episode 3 : Les Immaculés. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-3-episode-4/"> Episode 4 : Voici que son tour de garde prend fin. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-3-episode-5/"> Episode 5 : Baisée par le feu. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-3-episode-6/"> Episode 6 : L’Ascension. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-3-episode-7/"> Episode 7 : L’Ours et la Belle. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-3-episode-8/"> Episode 8 : Les Puînés.</a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-3-episode-9/"> Episode 9 : Les Pluies de Castamere. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-3-episode-10/"> Episode 10 : Mhysa. </a></li></h5>
+												</div>
+											</div>
+                  </ul>
+
+									<ul>
+											 <div class="dropdown">
+												<span> SAISON 4 </span>
+												<div class="dropdown-content">
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-4-episode-1/"> Episode 1 : Deux épées. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-4-episode-2/"> Episode 2 : Le Lion et la Rose. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-4-episode-3/"> Episode 3 : Briseuse de chaînes. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-4-episode-4/"> Episode 4 : Féale. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-4-episode-5/"> Episode 5 : Premier du nom. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-4-episode-6/"> Episode 6 : Les lois des dieux et des hommes. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-4-episode-7/"> Episode 7 : L’oiseau moqueur.</a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-4-episode-8/"> Episode 8 : La Montagne et la Vipère. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-4-episode-9/"> Episode 9 : Les Veilleurs au rempart. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-4-episode-10/"> Episode 10 : Les Enfants. </a></li></h5>
+												</div>
+											</div>
+                  </ul>
+
+									<ul>
+											 <div class="dropdown">
+												<span> SAISON 5 </span>
+												<div class="dropdown-content">
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-5-episode-1/"> Episode 1 : Les guerres à venir </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-5-episode-2/"> Episode 2 : La demeure du Noir et Blanc; </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-5-episode-3/"> Episode 3 :  Le Grand Moineau. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-5-episode-4/"> Episode 4 : Les Fils de la Harpie. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-5-episode-5/"> Episode 5 : Tuer le garçon. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-5-episode-6/"> Episode 6 : Infléchis, Insoumis, Invaincus </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-5-episode-7/"> Episode 7 :  Le Don </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-5-episode-8/"> Episode 8 : Durlieu </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-5-episode-9/"> Episode 9 : La Danse des Dragons. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-5-episode-10/"> Episode 10 : La pitié de la Mère </a></li></h5>
+												</div>
+											</div>
+                  </ul>
+
+									<ul>
+											 <div class="dropdown">
+												<span> SAISON 6 </span>
+												<div class="dropdown-content">
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-6-episode-1/"> Episode 1 : La femme rouge </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-6-episode-2/"> Episode 2 : A la maison </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-6-episode-3/"> Episode 3 : Briseur de serments. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-6-episode-4/"> Episode 4 : Le livre de l’étranger. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-6-episode-5/"> Episode 5 : La porte. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-6-episode-6/"> Episode 6 : Sang de mon sang </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-6-episode-7/"> Episode 7 : L’homme brisé </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-6-episode-8/"> Episode 8 : Personne </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-6-episode-9/"> Episode 9 : La bataille des bâtards. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-6-episode-10/"> Episode 10 : Les vents de l’hiver. </a></li></h5>
+												</div>
+											</div>
+                  </ul>
+
+									<ul>
+											 <div class="dropdown">
+												<span> SAISON 7 </span>
+												<div class="dropdown-content">
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-7-episode-1/"> Episode 1 : Peyredragon. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-7-episode-2/"> Episode 2 : Du Typhon. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-7-episode-3/"> Episode 3 : La Justice de la Reine. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-7-episode-4/"> Episode 4 : Le Butin de la Guerre. </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-7-episode-5/"> Episode 5 : Fort-Levant </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-7-episode-6/"> Episode 6 : Au-delà du Mur  </a></li></h5>
+													<h5><li><a href="https://www.serial-lectrice.com/game-of-thrones-saison-7-episode-7/"> Episode 7 : Le Dragon et le Loup  </a></li></h5>
+												</div>
+											</div>
+                  </ul>
+</aside>
+
+
+<div class="article">
+	<section class="actualites">
+		<h3> Le nouveau look de Daenerys </h3>
+			<p><em> Au travers d'une publication sur son compte Instagram, Emilia Clarke a confirmé le tournage imminent de l'ultime saison de "Game of Thrones", mais aussi un nouveau look pour son personnage Daenerys Targaryen.</em>
+			 <br><br>	Confirmant les recents propos de Nikolaj Coster-Waldau, la comédienne Emilia Clarke.	<a href="http://www.allocine.fr/article/fichearticle_gen_carticle=18667364.html"> Ici </a> </p>
+	</section>
+
+	<section class="actualites2">
+		<h3> Une application pour savoir qui est mort ou vivant </h3>
+			<p><em> Sur Facebook, un chatbot vous rappelle qui est encore vivant (ou mort) dans «Game of Thrones»</em>
+				<br> <br> Si, comme Jon Snow, vous ne savez rien, ça peut être une solution. Il est parfois difficile de se souvenir où l'on en est resté avec la série de David Benioff et D. B. Weiss. Histoire de nous aider un petit peu dans notre quête et de ne pas nous faire perdre trop de temps, The Verge a découvert qu'une agence londonienne, Catch, a créé le «G0TB0t», un chatbot Facebook qui sert d'encyclopédie numérique.
+				<a href="http://www.slate.fr/story/148044/facebook-chatbot-game-thrones"> Ici </a> </p>
+	</section>
+
+	<section class="famille">
+		<h3> Les differentes familles de Games Of Thrones </h3>
+			<p> Westeros est une bien grande contrée et après sept saisons de trahisons, de mariages et de morts, pas facile de s'y retrouver parmi les nombreux personnages et nombreuses familles qui s'affrontent inlassablement pour les sept couronnes.
+				<br><br>Découvrez donc sans plus attendre <a href="page2.html">les principales maisons de Game of Thrones.</a>
+			</p>
+	</section>
+	<br><br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+
+<div class="logo">
+	<img src="fb.png" width="50px" height="50px"></img>
+	<br>
+	<img src="twi.png"  width="50px" height="50px"></img>
+</div>
+
+<div id="footer">
+ 	Noms et prenoms et groupe
+</div>
+
+</body>
+</html>

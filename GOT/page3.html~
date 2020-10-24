@@ -1,0 +1,29 @@
+<!DOCTYPEhtml>
+<html>
+	<head>
+		<metacharset="UTF-8">
+		<link rel="stylesheet" href="fichier.css" type="text/css" media="screen" />
+		<link rel="icon" href="icone.jpg"/>
+		<title> GOTACTU </title>
+
+	</head>
+<body>
+
+<header>
+	<h1><center> GOTACTU </center></h1>
+	<h2> Photos </h2>
+	<center><img src="gameofthrones.jpg" alt="GOT" title="Games of thrones"  height="216px" width="384px"> </img></center>
+	<nav>
+		<ul>
+			<li><a href="gotactu.html"> Accueil </a></li>
+			<li><a href="page2.html"> Les familles de GOT </a></li>
+			<li><a href="page4.html"> Article </a></li>
+			<li><a href="page6.html"> Videos </a></li>
+		</ul>
+	</nav>
+</header>
+
+
+<a href="page5.html" target="_blank"><img src="image.jpg" alt="Petite image" width="400px" height="230px" /></a>
+
+

@@ -1,0 +1,82 @@
+<!DOCTYPEhtml>
+<html>
+	<head>
+		<metacharset="UTF-8">
+		<link rel="stylesheet" href="fichier.css" type="text/css" media="screen" />
+		<link rel="icon" href="icone.jpg"/>
+		<title> GOTACTU </title>
+	</head>
+<body>
+
+<header>
+	<h1><center> GOTACTU </center></h1>
+	<h2> Les familles </h2>
+	<center><img src="gameofthrones.jpg" alt="GOT" title="Games of thrones" height="216px" width="384px"> </img></center>
+	<nav>
+		<ul>
+			<li><a href="gotactu.html"> Accueil </a></li>
+			<li><a href="page3.html"> Photos </a></li>
+			<li><a href="page4.html"> Article </a></li>
+			<li><a href="page6.html"> Videos </a></li>
+		</ul>
+	</nav>
+</header>
+
+<table>
+	<h3> La famille STARK </h3>
+		<tr>
+			<th> <img src="nedstark.jpg" alt="Ned" title="photo de  ned stark" width="126" height="92" </th>
+			<td> Ned Stark (décapité) </td>
+			<td>  Il est le gouverneur du Nord et seigneur de Winterfell. Il est marié à lady Catelyn Tully, autrefois promise à son frère aîné, avec qui il a cinq enfants, Robb, Sansa, Arya, Bran et Rickon. Il a également un fils illégitime, Jon Snow, issu d'une liaison nébuleuse avec une femme du nom de Wylla. </td>
+		</tr>
+
+		<tr>
+			<th> <img src="catelynstark.jpg" alt="Catelyn" title="photo de  Catelyn stark" width="126" height="92" </th> </th>
+			<td> Catelyn Stark (assassinnée) </td>
+			<td> Catelyn Stark, née Tully, est l'épouse de lord Eddard Stark avec qui elle a cinq enfants, Robb, Sansa, Arya, Bran et Rickon. </td>
+		</tr>
+
+		<tr>
+			<th> <img src="robbstark.jpg" alt="robb" title="photo de  robb stark" width="126" height="92" </th>
+			<td> Robb Stark (poignardé) </td>
+			<td>  Robb Stark est le fils aîné de lord Eddard Stark </td>
+		</tr>
+
+		<tr>
+			<th> <img src="rickon.jpg" alt="rickon" title="photo de  rickon stark" width="126" height="92" </th>
+			<td> Rickon Stark (assassinné) </td>
+			<td>  Rickon Stark est le plus jeune fils de lord Eddard Stark et de lady Catelyn Stark </td>
+		</tr>
+
+		<tr>
+			<th> <img src="sansastark.jpg" alt="sansa" title="photo de  sansa stark" width="126" height="92" </th>
+			<td> Sansa Stark  </td>
+			<td>  Sansa Stark est la fille ainée de lord Eddard Stark </td>
+		</tr>
+
+		<tr>
+			<th> <img src="arya.jpg" alt="arya" title="photo de  arya stark" width="126" height="92" </th>
+			<td> Arya Stark  </td>
+			<td>  Arya Stark est la fille cadette de lord Eddard Stark </td>
+		</tr>
+
+		<tr>
+			<th> <img src="brandon.jpg" alt="brandon" title="photo de  brandon stark" width="126" height="92" </th>
+			<td> Brandon Stark  </td>
+			<td>  Bran  Stark est le fils cadet de lord Eddard Stark </td>
+		</tr>
+
+
+		<tr>
+			<th> <img src="jonsnow.jpg" alt="jonsnow" title="photo de  jon snow" width="126" height="92" </th>
+			<td> Jon Snow  </td>
+			<td>  Jon Snow, de son vrai nom Aegon Targaryen, est le fils de Lyanna Stark et de Rhaegar Targaryen, qui s'étaient mariés en secret à Dorne, mais seuls son cousin Bran Stark et son ami Samwell Tarly  </td>
+		</tr>
+
+
+</table>
+
+
+</div>
+</body>
+</html>

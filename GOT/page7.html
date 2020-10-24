@@ -1,0 +1,48 @@
+<!DOCTYPEhtml>
+<html>
+	<head>
+		<meta charset="UTF-8">
+		<link rel="stylesheet" href="fichier.css" type="text/css" media="screen" />
+		<link rel="icon" href="icone.jpg"/>
+		<title> GOTACTU </title>
+
+	</head>
+<body>
+
+<header>
+	<h1> GOTACTU </h1>	
+	<h2> Accueil </h2>
+	<center><img src="gameofthrones.jpg" alt="GOT" title="Games of thrones"  height="216px" width="384px"> </img></center>
+	<nav>
+		<ul>
+			<li><a href="page2.html"> Les familles de GOT </a></li>
+			<li><a href="page3.html">Photos </a></li>
+			<li><a href="page4.html"> Article </a></li>
+			<li><a href="page6.html"> Videos </a></li>
+			<li><a href="gotactu.html"> Accueil </a></li>
+		</ul>
+	</nav>
+</header>
+
+<form action="page.php" method="GET">
+  <label for="name">Name:</label>
+  <input type="text" required id="name" name="user_name"></br></br>
+  <label for="email">Email:</label>
+  <input type="email" required id="email" name="user_email"></br></br>
+  <label for="tel">tel:</label>
+  <input type="tel" id="tel" name="user_tel"></br></br>
+  <p>type demande</p>
+  <select name ="type demande"  id="demande">
+	<option value="bug">Bug</option>
+	<option value="amélioration">Amélioration</option>
+	<option value="autre">Autre</option>
+   </select></br></br>
+   <p>Est-ce votre première visite sur le site</p>
+   <label for="btn_radio1">oui</label>
+    <input type="radio" required id="radio" name="visite" id="visite1" value="0">
+    <label for="choix 2">non</label>
+    <input type="radio" name="visite" id="visite2" value="1"></br></br>
+    <label for="message">message</label></br>
+    <textarea name="message" required id="message" rows="10" cols="30"></textarea></br></br>
+    <input type="submit" value="Envoyer">
+ </form>
